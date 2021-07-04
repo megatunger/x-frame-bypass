@@ -1,7 +1,7 @@
 {
-  "name": "x-frame-bypass",
+  "name": "@megatunger/x-frame-bypass",
   "version": "1.0.2",
-  "description": "Web Component extending IFrame to bypass X-Frame-Options: deny/sameorigin",
+  "description": "FORK: For my own proxy. Web Component extending IFrame to bypass X-Frame-Options: deny/sameorigin",
   "main": "x-frame-bypass.js",
   "keywords": [
     "iframe",
@@ -10,8 +10,8 @@
 	"web-components",
 	"custom-elements"
   ],
-  "author": "niu tech",
-  "homepage": "https://github.com/niutech/x-frame-bypass",
-  "repository": "github:niutech/x-frame-bypass",
+  "author": "megatunger",
+  "homepage": "https://github.com/megatunger/x-frame-bypass",
+  "repository": "github:megatunger/x-frame-bypass",
   "license": "Apache-2.0"
 }
